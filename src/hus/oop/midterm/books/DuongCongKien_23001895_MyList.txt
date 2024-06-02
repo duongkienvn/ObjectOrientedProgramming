@@ -1,0 +1,41 @@
+testMyArrayList:
+Sorting by title ascending:
+[Book{title='Book 1', year=2000, pages=200}] [Book{title='Book 10', year=2007, pages=700}] [Book{title='Book 2', year=2005, pages=300}] [Book{title='Book 3', year=2001, pages=400}] [Book{title='Book 4', year=2006, pages=100}] [Book{title='Book 5', year=2009, pages=250}] [Book{title='Book 6', year=2003, pages=290}] [Book{title='Book 7', year=2011, pages=240}] [Book{title='Book 8', year=2015, pages=500}] [Book{title='Book 9', year=2014, pages=450}]
+
+Sorting by title descending:
+[Book{title='Book 9', year=2014, pages=450}] [Book{title='Book 8', year=2015, pages=500}] [Book{title='Book 7', year=2011, pages=240}] [Book{title='Book 6', year=2003, pages=290}] [Book{title='Book 5', year=2009, pages=250}] [Book{title='Book 4', year=2006, pages=100}] [Book{title='Book 3', year=2001, pages=400}] [Book{title='Book 2', year=2005, pages=300}] [Book{title='Book 10', year=2007, pages=700}] [Book{title='Book 1', year=2000, pages=200}]
+
+Sorting by page number ascending:
+[Book{title='Book 4', year=2006, pages=100}] [Book{title='Book 1', year=2000, pages=200}] [Book{title='Book 7', year=2011, pages=240}] [Book{title='Book 5', year=2009, pages=250}] [Book{title='Book 6', year=2003, pages=290}] [Book{title='Book 2', year=2005, pages=300}] [Book{title='Book 3', year=2001, pages=400}] [Book{title='Book 9', year=2014, pages=450}] [Book{title='Book 8', year=2015, pages=500}] [Book{title='Book 10', year=2007, pages=700}]
+
+Sorting by page number descending:
+[Book{title='Book 10', year=2007, pages=700}] [Book{title='Book 8', year=2015, pages=500}] [Book{title='Book 9', year=2014, pages=450}] [Book{title='Book 3', year=2001, pages=400}] [Book{title='Book 2', year=2005, pages=300}] [Book{title='Book 6', year=2003, pages=290}] [Book{title='Book 5', year=2009, pages=250}] [Book{title='Book 7', year=2011, pages=240}] [Book{title='Book 1', year=2000, pages=200}] [Book{title='Book 4', year=2006, pages=100}]
+
+
+testMyLinkedList:
+Sorting by title ascending:
+[Book{title='Book 1', year=2000, pages=200}] [Book{title='Book 10', year=2007, pages=700}] [Book{title='Book 2', year=2005, pages=300}] [Book{title='Book 3', year=2001, pages=400}] [Book{title='Book 4', year=2006, pages=100}] [Book{title='Book 5', year=2009, pages=250}] [Book{title='Book 6', year=2003, pages=290}] [Book{title='Book 7', year=2011, pages=240}] [Book{title='Book 8', year=2015, pages=500}] [Book{title='Book 9', year=2014, pages=450}]
+
+Sorting by title descending:
+[Book{title='Book 9', year=2014, pages=450}] [Book{title='Book 8', year=2015, pages=500}] [Book{title='Book 7', year=2011, pages=240}] [Book{title='Book 6', year=2003, pages=290}] [Book{title='Book 5', year=2009, pages=250}] [Book{title='Book 4', year=2006, pages=100}] [Book{title='Book 3', year=2001, pages=400}] [Book{title='Book 2', year=2005, pages=300}] [Book{title='Book 10', year=2007, pages=700}] [Book{title='Book 1', year=2000, pages=200}]
+
+Sorting by page number ascending:
+[Book{title='Book 4', year=2006, pages=100}] [Book{title='Book 1', year=2000, pages=200}] [Book{title='Book 7', year=2011, pages=240}] [Book{title='Book 5', year=2009, pages=250}] [Book{title='Book 6', year=2003, pages=290}] [Book{title='Book 2', year=2005, pages=300}] [Book{title='Book 3', year=2001, pages=400}] [Book{title='Book 9', year=2014, pages=450}] [Book{title='Book 8', year=2015, pages=500}] [Book{title='Book 10', year=2007, pages=700}]
+
+Sorting by page number descending:
+[Book{title='Book 10', year=2007, pages=700}] [Book{title='Book 8', year=2015, pages=500}] [Book{title='Book 9', year=2014, pages=450}] [Book{title='Book 3', year=2001, pages=400}] [Book{title='Book 2', year=2005, pages=300}] [Book{title='Book 6', year=2003, pages=290}] [Book{title='Book 5', year=2009, pages=250}] [Book{title='Book 7', year=2011, pages=240}] [Book{title='Book 1', year=2000, pages=200}] [Book{title='Book 4', year=2006, pages=100}]
+
+
+testIterator
+Book{title='Book 1', year=2000, pages=200}
+Book{title='Book 2', year=2005, pages=300}
+Book{title='Book 3', year=2001, pages=400}
+Book{title='Book 4', year=2006, pages=100}
+Book{title='Book 5', year=2009, pages=250}
+Book{title='Book 6', year=2003, pages=290}
+Book{title='Book 7', year=2011, pages=240}
+Book{title='Book 8', year=2015, pages=500}
+Book{title='Book 9', year=2014, pages=450}
+Book{title='Book 10', year=2007, pages=700}
+
+Process finished with exit code 0

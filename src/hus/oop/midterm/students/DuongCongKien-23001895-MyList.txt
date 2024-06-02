@@ -1,0 +1,39 @@
+testMyArrayList:
+sorting by increasing name
+[Student{name='bac', lastname='chi', average=50.0}] [Student{name='cuong', lastname='cong', average=200.0}] [Student{name='dat', lastname='vo', average=660.0}] [Student{name='hung', lastname='pham', average=130.0}] [Student{name='john', lastname='alex', average=300.0}] [Student{name='kien', lastname='duong', average=100.0}] [Student{name='nam', lastname='vu', average=500.0}] [Student{name='nghia', lastname='nguyen', average=250.0}] [Student{name='toan', lastname='khuc', average=60.0}] [Student{name='tu', lastname='nguyen', average=800.0}]
+
+sorting by decreasing name
+[Student{name='tu', lastname='nguyen', average=800.0}] [Student{name='toan', lastname='khuc', average=60.0}] [Student{name='nghia', lastname='nguyen', average=250.0}] [Student{name='nam', lastname='vu', average=500.0}] [Student{name='kien', lastname='duong', average=100.0}] [Student{name='john', lastname='alex', average=300.0}] [Student{name='hung', lastname='pham', average=130.0}] [Student{name='dat', lastname='vo', average=660.0}] [Student{name='cuong', lastname='cong', average=200.0}] [Student{name='bac', lastname='chi', average=50.0}]
+
+sorting by increasing average
+[Student{name='bac', lastname='chi', average=50.0}] [Student{name='toan', lastname='khuc', average=60.0}] [Student{name='kien', lastname='duong', average=100.0}] [Student{name='hung', lastname='pham', average=130.0}] [Student{name='cuong', lastname='cong', average=200.0}] [Student{name='nghia', lastname='nguyen', average=250.0}] [Student{name='john', lastname='alex', average=300.0}] [Student{name='nam', lastname='vu', average=500.0}] [Student{name='dat', lastname='vo', average=660.0}] [Student{name='tu', lastname='nguyen', average=800.0}]
+
+sorting by decreasing average
+[Student{name='tu', lastname='nguyen', average=800.0}] [Student{name='dat', lastname='vo', average=660.0}] [Student{name='nam', lastname='vu', average=500.0}] [Student{name='john', lastname='alex', average=300.0}] [Student{name='nghia', lastname='nguyen', average=250.0}] [Student{name='cuong', lastname='cong', average=200.0}] [Student{name='hung', lastname='pham', average=130.0}] [Student{name='kien', lastname='duong', average=100.0}] [Student{name='toan', lastname='khuc', average=60.0}] [Student{name='bac', lastname='chi', average=50.0}]
+
+
+testMyLinkedList:
+sorting by increasing name
+[Student{name='bac', lastname='chi', average=50.0}] [Student{name='cuong', lastname='cong', average=200.0}] [Student{name='dat', lastname='vo', average=660.0}] [Student{name='hung', lastname='pham', average=130.0}] [Student{name='john', lastname='alex', average=300.0}] [Student{name='kien', lastname='duong', average=100.0}] [Student{name='nam', lastname='vu', average=500.0}] [Student{name='nghia', lastname='nguyen', average=250.0}] [Student{name='toan', lastname='khuc', average=60.0}] [Student{name='tu', lastname='nguyen', average=800.0}]
+
+sorting by decreasing name
+[Student{name='tu', lastname='nguyen', average=800.0}] [Student{name='toan', lastname='khuc', average=60.0}] [Student{name='nghia', lastname='nguyen', average=250.0}] [Student{name='nam', lastname='vu', average=500.0}] [Student{name='kien', lastname='duong', average=100.0}] [Student{name='john', lastname='alex', average=300.0}] [Student{name='hung', lastname='pham', average=130.0}] [Student{name='dat', lastname='vo', average=660.0}] [Student{name='cuong', lastname='cong', average=200.0}] [Student{name='bac', lastname='chi', average=50.0}]
+
+sorting by increasing average
+[Student{name='bac', lastname='chi', average=50.0}] [Student{name='toan', lastname='khuc', average=60.0}] [Student{name='kien', lastname='duong', average=100.0}] [Student{name='hung', lastname='pham', average=130.0}] [Student{name='cuong', lastname='cong', average=200.0}] [Student{name='nghia', lastname='nguyen', average=250.0}] [Student{name='john', lastname='alex', average=300.0}] [Student{name='nam', lastname='vu', average=500.0}] [Student{name='dat', lastname='vo', average=660.0}] [Student{name='tu', lastname='nguyen', average=800.0}]
+
+sorting by decreasing average
+[Student{name='tu', lastname='nguyen', average=800.0}] [Student{name='dat', lastname='vo', average=660.0}] [Student{name='nam', lastname='vu', average=500.0}] [Student{name='john', lastname='alex', average=300.0}] [Student{name='nghia', lastname='nguyen', average=250.0}] [Student{name='cuong', lastname='cong', average=200.0}] [Student{name='hung', lastname='pham', average=130.0}] [Student{name='kien', lastname='duong', average=100.0}] [Student{name='toan', lastname='khuc', average=60.0}] [Student{name='bac', lastname='chi', average=50.0}]
+
+
+testIterator:
+Student{name='kien', lastname='duong', average=100.0}
+Student{name='cuong', lastname='cong', average=200.0}
+Student{name='john', lastname='alex', average=300.0}
+Student{name='nam', lastname='vu', average=500.0}
+Student{name='tu', lastname='nguyen', average=800.0}
+Student{name='nghia', lastname='nguyen', average=250.0}
+Student{name='hung', lastname='pham', average=130.0}
+Student{name='toan', lastname='khuc', average=60.0}
+Student{name='bac', lastname='chi', average=50.0}
+Student{name='dat', lastname='vo', average=660.0}
